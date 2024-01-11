@@ -17,7 +17,8 @@ public class Login {
 		    driver.get("https://demo.nopcommerce.com/");
 		     
 		    driver.manage().window().maximize();
-		Thread.sleep(2000);
+		    
+		  
 		    
 //			1. Register    
 		     
